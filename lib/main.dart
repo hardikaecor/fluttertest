@@ -170,7 +170,7 @@ class MyApp extends StatelessWidget {
         // Sets the padding in the main container
         padding: const EdgeInsets.all(20.0),
         child: SingleChildScrollView(child: column),
-        
+
       ),
     );
     ;

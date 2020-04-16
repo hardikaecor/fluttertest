@@ -20,6 +20,8 @@ dependencies:
   flutter:
     sdk: flutter
 
+  location: ^1.4.1
+
   google_maps_flutter: ^0.5.11
 
   http: ^0.12.0
